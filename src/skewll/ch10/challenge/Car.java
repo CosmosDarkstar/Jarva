@@ -33,7 +33,7 @@ public class Car extends JComponent {
 					repaint();
 				} else if (x1 >= windowWidth) {
 					x1 = 0;
-					x2 = 0;
+					x2 = 990;
 				} else {
 					((Timer) actEvt.getSource()).stop();
 				}
