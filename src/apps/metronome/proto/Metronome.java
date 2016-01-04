@@ -1,10 +1,12 @@
 package apps.metronome.proto;
 
 /* I have no idea what the fekk im doing yet so yeah
- * .
+ * 
  * this is the METROGNOME yeah idk
- * .
- * For musicians on the go, be it band practice, or studio gig, or even at home. */
+ * 
+ * For musicians on the go, be it band practice, or studio gig, or even at home.
+ * 
+ * btw this also doesnt do anything if you run it atm */
 
 public class Metronome {
 
