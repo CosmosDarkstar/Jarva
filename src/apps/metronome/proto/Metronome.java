@@ -1,12 +1,15 @@
 package apps.metronome.proto;
 
+/* I have no idea what the fekk im doing yet so yeah
+ * .
+ * this is the METROGNOME yeah idk
+ * .
+ * For musicians on the go, be it band practice, or studio gig, or even at home. */
+
 public class Metronome {
 
 	private double bpm;
 	private double measures;
-
-	//private int i = 0;
-	//private int count = 0;
 
 	class BPMCount {
 
