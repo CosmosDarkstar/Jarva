@@ -1,0 +1,3 @@
+16. sets the base to A instedad of z
+17. supposed to change it like it does the others but sets it to { or [ depending on case
+18. in it currently it does nothing, but you could just have it add 3 to each number or something like that
