@@ -1,0 +1,4 @@
+1. seeing as this compujter refuses to run Permutations.java I cant do thios part
+2.tell it to stop once string.length(); is 1
+3. cuz each word is different
+4.
