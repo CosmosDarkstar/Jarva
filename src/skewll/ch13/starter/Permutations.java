@@ -7,8 +7,8 @@ import java.util.ArrayList;
 */
 public class Permutations{
    public static void main(String[] args){
-      for (String s : permutations("eat")){         
-         System.out.println(s);
+      for (String s : permutations("eat")){
+    	  System.out.println(s);
       }
    }
 
@@ -21,7 +21,7 @@ public class Permutations{
       ArrayList<String> result = new ArrayList<String>();
 
       // The empty string has a single permutation: itself
-      if (word.length() == 0){ 
+      if (word.length() == 0){
          result.add(word); 
          return result; 
       }
