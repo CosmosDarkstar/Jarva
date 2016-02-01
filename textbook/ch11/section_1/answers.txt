@@ -1,0 +1,5 @@
+1. Overwrites the file with total zero
+2. you get a file not found exception
+3. the stupid book doesnt even tell you how to
+4. make it calculate the mean instead of just adding them
+5. by editing the crap out of the formatters
